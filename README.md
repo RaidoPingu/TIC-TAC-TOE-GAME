@@ -1,5 +1,10 @@
 <h1 align="center">TIC-TAC-TOE-GAME</h1>
 
+<h2 align="left" meta= "Siin on see osa mida kirjutab Raido ning see on osa mu kodutööst">Installing Tik-Tak-Toe from docker:</h2>
+<br>
+<p meta="Samuti minu kirjeldus kus proovin selgitada kuidas installida dockeri eeldusi">Here is how to install the game with docker<br>
+
+
 
 ## :rocket: Knowledges
  - `ReactJS`
@@ -10,7 +15,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone https://github.com/ucfx/TIC-TAC-TOE-GAME.git
+$ git clone https://github.com/RaidoPingu/TIC-TAC-TOE-GAME.git
 
 # Go into the repository
 $ cd TIC-TAC-TOE-GAME
