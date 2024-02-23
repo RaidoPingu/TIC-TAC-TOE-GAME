@@ -11,9 +11,9 @@ To pull this container write command docker clone
 When container is up, you can connect with localhost:
 http://localhost:3000 or http://machine ip:3000
 
-## :Book: Mida õppisin sellest projektist (Õpetajale)!
+## :book: Mida õppisin sellest projektist!
 
-Esimene kokkupuude üldse Dockeri faili ise kirjutamisega, olen eelnevalt küll dockerit palju kasutanud ja ka oma igapäeva töös kasutan endiselt, aga see oli hea simiavav ülevaade
+Esimene kokkupuude üldse Dockeri faili ise kirjutamisega, olen eelnevalt küll dockerit palju kasutanud ja ka oma igapäeva töös kasutan endiselt, aga ise kirjutanud neid polnud. Lisamaterjalist oli palju abi ning selle ja ühe teise projekti Dockerfaili abiga sain enda oma kokku. Õppisin kuidas see protsess üldiselt käib, koodist dockeri konteinerini.
 
 
 ## :rocket: Knowledges
