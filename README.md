@@ -28,6 +28,7 @@ http://localhost:3000 or http://machine ip:3000
 ## :book: Mida õppisin sellest projektist!
 
 Esimene kokkupuude üldse Dockeri faili ise kirjutamisega, olen eelnevalt küll dockerit palju kasutanud ja ka oma igapäeva töös kasutan endiselt, aga ise kirjutanud neid polnud. Lisamaterjalist oli palju abi ning selle ja ühe teise projekti Dockerfaili abiga sain enda oma kokku. Õppisin kuidas see protsess üldiselt käib, koodist dockeri konteinerini. Ühesõnaga, õppisin palju.
+Peamised probleemid olid ikkagi arusaamine mida dockerifaili kirjutada, tuli korduvalt ümber kirjutada ja üks suurimaid prbleeme oli, et npm streikis ja loopis erroreid mis hiljem selgus oli vaja installida npm WSL-i. Pisikesi asju oli mitmeid, tuli otsida näiteid testest Dockeri failidest jne. 
 
 
 ## :rocket: Knowledges
